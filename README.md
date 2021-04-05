@@ -33,6 +33,19 @@ Creators have been added on photographs where the original item and metadata can
 ### Source
 
 ### Language
+
+### Relation
+
+### Relation Type
+
+### Relation href
+
+### Coverage Spatial
+
+### Coverage Temporal
+
+### Rights
+
 ## Resources
 
 New York Public Library Digital Collections: https://digitalcollections.nypl.org/

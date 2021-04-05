@@ -45,7 +45,7 @@ Coverage terms have been edited or added to accurately describe location and hel
 ### Coverage Temporal
 A range of dates regarding the timeframe the object is based from or about.
 ### Rights
-Rights statements have been changed to conform to [rightsstatements.org] (https://rightsstatements.org/page/1.0/?language=en) copyright statements. Statements used in Colorado Coal include: [In Copyright} (https://rightsstatements.org/page/InC/1.0/?language=en), [No Copyright - United States] (https://rightsstatements.org/page/NoC-US/1.0/?language=en), [No Known Copyright] (https://rightsstatements.org/page/NKC/1.0/?language=en), and [Copyright Undetermined] (https://rightsstatements.org/page/UND/1.0/?language=en).
+Rights statements have been changed to conform to [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en) copyright statements. Statements used in Colorado Coal include: [In Copyright](https://rightsstatements.org/page/InC/1.0/?language=en), [No Copyright - United States](https://rightsstatements.org/page/NoC-US/1.0/?language=en), [No Known Copyright](https://rightsstatements.org/page/NKC/1.0/?language=en), and [Copyright Undetermined](https://rightsstatements.org/page/UND/1.0/?language=en).
 ## Resources
 
 New York Public Library Digital Collections: https://digitalcollections.nypl.org/

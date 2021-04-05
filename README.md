@@ -6,8 +6,10 @@ The Colorado Coal Project documents the history of coal mining in the Western US
 ## Metadata
 
 ### Collection Name
+Colorado Coal Project
 
 ### Title
+Legacy titles have been changed or expanded/edited to accurately describe the item and help with discoverability.
 
 ### Creator
 

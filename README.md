@@ -27,7 +27,7 @@ Dates have been changed to conform to ISO 8601 standard. Many dates have been ad
 ### Type
 Type terms were changed to the Library of Congress’ “Resource Types Scheme” terminology. The terms used include Moving image, Still image, Text, and Audio.
 ### Format
-Format was changed to Internet Assigned Numbers Authority (IANA) media formats. Formats seen throughout the Colorado Coal Project are: image/tiff, video/mov, application/pdf and audio/mp3.
+Format was changed to [Internet Assigned Numbers Authority](https://www.iana.org/assignments/media-types/media-types.xhtml) (IANA) media formats. Formats seen throughout the Colorado Coal Project are: image/tiff, video/mov, application/pdf and audio/mp3.
 ### Identifier
 All identifiers in the metadata have been edited to match the media file name exactly as it appears including spaces, characters, and the file extension. Old identifiers can be found on legacy metadata sheets.
 ### Source
@@ -37,11 +37,11 @@ Colorado Coal Project Collection
 ### Relation
 Records with a related item have been changed to state the title of the related item.
 ### Relation Type
-Records with a related item have been changed to state a controlled heading according to the Dublin Core Metadata Initiative (DCMI) "RDF Schema Declaration of Relation Types." Frequently used types include: isPartOf, isFormatOf, references, and isVersionOf.
+Records with a related item have been changed to state a controlled heading according to the Dublin Core Metadata Initiative (DCMI) [RDF Schema Declaration of Relation Types](https://www.dublincore.org/specifications/dublin-core/rdf-relation-types/). Frequently used types include: isPartOf, isFormatOf, references, and isVersionOf.
 ### Relation href
 Records with a related item have been changed to state the related item’s identifier and/or archival resource key (ARK).
 ### Coverage Spatial
-Coverage terms have been edited or added to accurately describe location and help with discoverability. Coverage terms have been locally formatted with granularity in mind to help identify the location of obscure places like mines, ghost towns, and rural mining towns. Most of the coverage terms come from the United States Geographic Names Information System (GNIS) gazetteer. Coverage is constructed as: “Place (City, County, State, Country, Continent) (feature type)”
+Coverage terms have been edited or added to accurately describe location and help with discoverability. Coverage terms have been locally formatted with granularity in mind to help identify the location of obscure places like mines, ghost towns, and rural mining towns. Most of the coverage terms come from the United States [Geographic Names Information System](https://geonames.usgs.gov/apex/f?p=138:1:::NO::P1_COUNTY,P1_COUNTY_ALONG:n,) (GNIS) gazetteer. Coverage is constructed as: “Place (City, County, State, Country, Continent) (feature type)”
 ### Coverage Temporal
 A range of dates regarding the timeframe the object is based from or about.
 ### Rights

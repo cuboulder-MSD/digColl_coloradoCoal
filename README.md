@@ -23,7 +23,7 @@ University of Colorado Boulder Archives
 ### Contributor
 Names of retired miners and their families have been entered into the contributor field if they participated in an interview for the Colorado Coal Project.
 ### Date
-
+Dates have been changed to conform to ISO 8601 standard. Many dates have been added to items where the organization that holds the original item and metadata confirmed the date. The date “[1970s]” was added to many interviews and photographs missing a date and was created by Eric Margolis and Ronald McMahan for the Colorado Coal Project
 ### Type
 Type terms were changed to the Library of Congress’ “Resource Types Scheme” terminology. The terms used include Moving image, Still image, Text, and Audio.
 ### Format

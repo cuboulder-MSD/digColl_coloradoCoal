@@ -1,6 +1,8 @@
 # Colorado Coal Project
 ## Description
 
+The Colorado Coal Project documents the history of coal mining in the Western US from immigration and daily life in the coal camps to labor conditions and strikes, including Ludlow (1913-1914) and Columbine (1927).
+
 The collection was put together by Eric Margolis and Ronald McMahan while they were graduate students at the University of Colorado Boulder in the 1970’s. To learn more about their biographies and the collection visit the [Colorado Coal Project Papers]( https://archives.colorado.edu/repositories/2/resources/976) ArchivesSpace page. 
 
 The collection was digitized and published around 2012-2014. Legacy metadata came directly from index cards Eric and Ronald created for each item in the collection. 

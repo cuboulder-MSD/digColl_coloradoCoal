@@ -55,10 +55,15 @@ Rights statements have been changed to conform to [rightsstatements.org](https:/
 Many of the photographs in this collection are copies of original items. While reformatting the new metadata in 2020 an attempt was made to record the institution that owns the original item so that researchers can look at their metadata or find similar items. If an original item was located the organization was recored within an extended description field in the metadata. A list is provided below with the names of organizations that items in the Colorado Coal Project came from.
 
 [Denver Public Library](https://digital.denverlibrary.org/)
+
 [History Colorado](https://5008.sydneyplus.com/HistoryColorado_ArgusNet_Final/Portal.aspx?lang=en-US)
+
 [New York Public Library Digital Collections](https://digitalcollections.nypl.org/)
+
 [Steelworks Center of the West](https://steelworks.pastperfectonline.com/)
+
 [Utah Department of Heritage & Arts](https://collections.lib.utah.edu/)
+
 [Wyoming State Archives](http://spcrphotocollection.wyo.gov/luna/servlet)
 
 

@@ -46,7 +46,7 @@ Records with a related item have been changed to state a controlled heading acco
 ### Relation href
 Records with a related item have been changed to state the related item’s identifier and/or archival resource key (ARK).
 ### Coverage Spatial
-Coverage terms have been edited or added to accurately describe location and help with discoverability. Coverage terms have been locally formatted with granularity in mind to help identify the location of obscure places like mines, ghost towns, and rural mining towns. Most of the coverage terms come from the United States [Geographic Names Information System](https://geonames.usgs.gov/apex/f?p=138:1:::NO::P1_COUNTY,P1_COUNTY_ALONG:n,) (GNIS) gazetteer. Coverage is constructed as: “Place (City, County, State, Country, Continent) (feature type)”
+Coverage terms have been edited or added to accurately describe location and help with discoverability. Most of the coverage terms come from the United States [Geographic Names Information System](https://geonames.usgs.gov/apex/f?p=138:1:::NO::P1_COUNTY,P1_COUNTY_ALONG:n,) (GNIS) gazetteer. Coverage terms have been locally formatted with granularity in mind to help identify the location of obscure places like mines, ghost towns, and rural mining towns. Coverage is constructed as: “Place (City, County, State, Country, Continent) (feature type)”
 ### Coverage Temporal
 A range of dates regarding the timeframe the object is based from or about.
 ### Rights

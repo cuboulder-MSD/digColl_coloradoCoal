@@ -5,6 +5,12 @@ The Colorado Coal Project documents the history of coal mining in the Western US
 
 ## Metadata
 
+### Collection Name
+
+### Title
+
+### Creator
+
 ## Resources
 
 New York Public Library Digital Collections: https://digitalcollections.nypl.org/

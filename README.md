@@ -5,8 +5,8 @@ The Colorado Coal Project documents the history of coal mining in the Western US
 
 The collection was put together by Eric Margolis and Ronald McMahan while they were graduate students at the University of Colorado Boulder in the 1970’s. To learn more about their biographies and the collection visit the [Colorado Coal Project Papers]( https://archives.colorado.edu/repositories/2/resources/976) ArchivesSpace page. 
 
-The collection was digitized and published around 2012-2014. Legacy metadata came directly from index cards Eric and Ronald created for each item in the collection. 
-In 2020-2021 the legacy metadata has been edited and re-formatted to conform to various standards in cataloging. New metadata has also been added to describe each item in more detail and increase discoverability. The legacy metadata and current metadata can be found on this page.
+The collection was digitized and published around 2012-2014. Legacy metadata came directly from index cards Eric and Ronald had created for each item in the collection. 
+In 2020-2021 the legacy metadata was edited and re-formatted to conform to current standards in cataloging. New metadata was also added to describe each item in more detail and increase discoverability. The legacy metadata and current metadata can be found within the "metadata" folder on this page.
 
 ## Metadata
 

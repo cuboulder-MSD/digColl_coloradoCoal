@@ -90,7 +90,7 @@ Many of the photographs in this collection are copies of original items. While r
 | CF&I | Colorado Fuel & Iron Company | |
 | CHS | Colorado Historical Society | |
 | CMP | | | Might be a typo for CCMP = Colorado Coal Mine Project |
-| CU | University of Colorado | Items come from the University of Boulder Libraries, Special Collections & Archives. |
+| CU | University of Colorado | Items came from the University of Boulder Libraries, Special Collections & Archives. |
 | DPL | Denver Public Library | Original index card metadata from 2012 was not available. New metadata created for these records in 2020. |
 | EF | | Abbreviation not seen or available throughout current collection. |
 |EFA | Energy Economics and Financial Analysis? | |
@@ -100,8 +100,8 @@ Many of the photographs in this collection are copies of original items. While r
 | KEM | Kemmerer, Wyoming | |
 | LDS | Latter Day Saints | Images might come from the library in Salt Lake City. |
 | MNM | New Mexico | Some photographs can be found in the "UNM CSWR Henry A. Schmidt Photograph Collection." |
-| NA AVA | | Original image might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
-| NAAUA | | Original image might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
+| NA AVA | | Original images might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
+| NAAUA | | Original images might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
 | NK | | |
 | NMN | | Might be typo for MNM = New Mexico |
 | NYPL | New York Public Library | |

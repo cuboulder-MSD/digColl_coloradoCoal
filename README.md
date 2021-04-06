@@ -73,6 +73,7 @@ Many of the photographs in this collection are copies of original items. While r
 
 ## Notes
 ### Identifier Abbreviations
+A list of identifiers Eric and Ronald assigned to their collection items; however, the meaning of each abbreviation was not documented with the legacy metadata. This list attempts to decode what the abbreviations stand for during the 2020 metadata clean-up because many of the abbreviations provide clues as to where the original items were taken from.
 
 | Identifiers | Meaning | Notes |
 | ----------- | ------- | ----- |

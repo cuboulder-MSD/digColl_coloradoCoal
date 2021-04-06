@@ -74,6 +74,6 @@ Many of the photographs in this collection are copies of original items. While r
 ## Notes
 ### Identifier Abbreviations
 
-![Identifier Abbreviations](<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTagaB9Yxbyn5jc8XhnnKShyLyRNP8w_RSvbcjvB_TygX9tU9qI9YL6Cpna6LrIpfpsEncQ5JKE3N8c/pubhtml?gid=1577017275&amp;single=true&amp;widget=true&amp;headers=false"></iframe>)
+![Identifier Abbreviations](https://docs.google.com/spreadsheets/d/e/2PACX-1vTagaB9Yxbyn5jc8XhnnKShyLyRNP8w_RSvbcjvB_TygX9tU9qI9YL6Cpna6LrIpfpsEncQ5JKE3N8c/pubhtml?gid=1577017275&amp;single=true&amp;widget=true&amp;headers=false)
 
  

@@ -58,6 +58,8 @@ Many of the photographs in this collection are copies of original items. While r
 
 [History Colorado](https://5008.sydneyplus.com/HistoryColorado_ArgusNet_Final/Portal.aspx?lang=en-US)
 
+[Mine Safety and Health Administration](https://www.msha.gov/digital-materials-collection)
+
 [New York Public Library Digital Collections](https://digitalcollections.nypl.org/)
 
 [Steelworks Center of the West](https://steelworks.pastperfectonline.com/)

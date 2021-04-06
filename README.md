@@ -79,3 +79,6 @@ Many of the photographs in this collection are copies of original items. While r
 | AH          |         |       |
 | AN          |         | Believe AN is a misspelling of the files labled with "AH" |
 | AUA         |         | Original image might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections.|
+| AULT        | Ault, Colorado | |
+| BK          | Book | Images came from various print books. Some known some unknown in the metadata. |
+| BL | | | Might be a typo for BK |

@@ -64,6 +64,8 @@ Many of the photographs in this collection are copies of original items. While r
 
 [Steelworks Center of the West](https://steelworks.pastperfectonline.com/)
 
+[University of New Mexico](https://econtent.unm.edu/)
+
 [Utah Department of Heritage & Arts](https://collections.lib.utah.edu/)
 
 [Wyoming State Archives](http://spcrphotocollection.wyo.gov/luna/servlet)

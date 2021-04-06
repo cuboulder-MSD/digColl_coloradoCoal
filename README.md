@@ -82,3 +82,40 @@ Many of the photographs in this collection are copies of original items. While r
 | AULT        | Ault, Colorado | |
 | BK          | Book | Images came from various print books. Some known some unknown in the metadata. |
 | BL | | | Might be a typo for BK |
+| C&P/CP | C&P Coal company/Cumberland & Pennsylvania railroad coal hauler | |
+| CPB | | | 
+| CPD | | |
+| CPE | | |
+| CCMP | Colorado Coal Mine Project | |
+| CF&I | Colorado Fuel & Iron Company | |
+| CHS | Colorado Historical Society | |
+| CMP | | | Might be a typo for CCMP = Colorado Coal Mine Project |
+| CU | University of Colorado | Items come from the University of Boulder Libraries, Special Collections & Archives. |
+| DPL | Denver Public Library | Original index card metadata from 2012 was not available. New metadata created for these records in 2020. |
+| EF | | Abbreviation not seen or available throughout current collection. |
+|EFA | Energy Economics and Financial Analysis? | |
+| FRED | | |
+| HLS | | Cannot figure out what HLS stands for, but photos seem to take place in New Mexico and Colorado. |
+| JCCMP | | Might be a typo for CCMP = Colorado Coal Mine Project |
+| KEM | Kemmerer, Wyoming | |
+| LDS | Latter Day Saints | Images might come from the library in Salt Lake City. |
+| MNM | New Mexico | Some photographs can be found in the "UNM CSWR Henry A. Schmidt Photograph Collection." |
+| NA AVA | | Original image might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
+| NAAUA | | Original image might come from the Naval History and Heritage Command archives or the Mine Safety and Health Administration, U.S. Department of Labor and MSHA Library digital collections. |
+| NK | | |
+| NMN | | Might be typo for MNM = New Mexico |
+| NYPL | New York Public Library | |
+| PAE | | Might be typo for PAO = Paonia |
+| PAO | Paonia, Colorado | |
+| PAOJ | Paonia, Colorado | |
+| PRL | | Small section of records that might be a misspelling. |
+| RM | | Photos seem to resemble the photographs from the Sweetwater County Historical Museum. |
+| RME | | Photos seem to resemble the photographs from the Sweetwater County Historical Museum. |
+| SHSC | State Historical Society of Colorado | |
+| SCWO | | Might be a typo for SWCO? |
+| SWCO | Southwest Colorado? or Sweetwater County? | Photos might come from the Sweetwater County Historical Museum. |
+| TRIN | Trinidad, Colorado | Most photographs come from both Denver Public Library and History Colorado. Most photographs about strikes in Trinidad, Colorado. |
+| USHS | Utah State Historical Society | Photographs come from the Utah Department of Heritage and Arts digital collections. Located at the J. Willard Marriott Digital Library from the University of Utah. |
+| USS | U.S. Steel Corporation | Some photos might be found from the Steelworks Center of the West online collections database. |
+| WAL | Walsenburg, Colorado | Photographs might come from the Walsenburg Mining Museum? |
+| WSM | Wyoming State Museum | One image found from the University of Wyoming Digital Collections, but most images found from the Wyoming State Archives with this identifier. |

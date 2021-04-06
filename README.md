@@ -52,7 +52,7 @@ A range of dates regarding the timeframe the object is based from or about.
 ### Rights
 Rights statements have been changed to conform to [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en) copyright statements. Statements used in Colorado Coal include: [In Copyright](https://rightsstatements.org/page/InC/1.0/?language=en), [No Copyright - United States](https://rightsstatements.org/page/NoC-US/1.0/?language=en), [No Known Copyright](https://rightsstatements.org/page/NKC/1.0/?language=en), and [Copyright Undetermined](https://rightsstatements.org/page/UND/1.0/?language=en).
 ## Resources
-Many of the photographs in this collection are copies of original items. While reformatting the new metadata in 2020 an attempt was made to record the institution that owns the original item so that researchers can look at their metadata or find similar items. If an original item was located the organization that owns the item was recorded within an extended description field in the metadata. A list is provided below with the names of organizations that items in the Colorado Coal Project came from.
+Many of the photographs in this collection are copies of original items. While reformatting the new metadata in 2020 an attempt was made to record the institution that owns the original item so that researchers can look at their metadata or find similar items. If an original item was located, the organization that owns the item was recorded within an extended description field in the metadata. A list is provided below with the names of the organizations and a link to their digital repository.
 
 [Denver Public Library](https://digital.denverlibrary.org/)
 

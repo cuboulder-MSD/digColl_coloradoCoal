@@ -50,7 +50,7 @@ Contains the textual or coded form for the language of the content of the resour
 ### Relation
 Information that identifies other resources related to the one being described. Records with a related item have been changed to state the title of the related item.
 ### Relation Type
-Records with a related item have been changed to state a controlled heading according to the Dublin Core Metadata Initiative (DCMI) [RDF Schema Declaration of Relation Types](https://www.dublincore.org/specifications/dublin-core/rdf-relation-types/). Frequently used types include: isPartOf, isFormatOf, references, and isVersionOf.
+Records with a related item have been changed to state a controlled heading according to the Dublin Core Metadata Initiative (DCMI) [RDF Schema Declaration of Relation Types](https://www.dublincore.org/specifications/dublin-core/rdf-relation-types/). Frequently used types include: isPartOf; isFormatOf; references; and isVersionOf.
 ### Relation href
 Records with a related item have been changed to state the related item’s archival resource key (ARK).
 ### Coverage Spatial
@@ -64,7 +64,7 @@ Information about restrictions imposed on access to a resource.
 
 Statements used in collection: [In Copyright](https://rightsstatements.org/page/InC/1.0/?language=en), [No Copyright - United States](https://rightsstatements.org/page/NoC-US/1.0/?language=en), [No Known Copyright](https://rightsstatements.org/page/NKC/1.0/?language=en), and [Copyright Undetermined](https://rightsstatements.org/page/UND/1.0/?language=en).
 
-Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+Rights statements come from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
 ## Resources
 Many of the photographs in this collection are copies of original items. While reformatting the new metadata in 2020 an attempt was made to record the institution that owns the original item so that researchers can look at their metadata or find similar items. If an original item was located, the organization that owns the item was recorded within an extended description field in the metadata. A list is provided below with the names of the organizations and a link to their digital repository.
